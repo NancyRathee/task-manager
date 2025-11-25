@@ -1,2 +1,4 @@
-# task-manager
-A beautiful task manager that helps you organize your life. Create tasks, set priorities, track progress, and get things done with a clean, intuitive interface.
+# TaskFlow Pro - Task Manager
+
+A full-stack task management application with user authentication, built with Node.js, Express, MongoDB, and vanilla JavaScript.
+
