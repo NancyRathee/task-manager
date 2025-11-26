@@ -1,4 +1,7 @@
 # TaskFlow Pro - Task Manager
 
-A full-stack task management application with user authentication, built with Node.js, Express, MongoDB, and vanilla JavaScript.
+[![Render](https://img.shields.io/badge/Render-Deployed-green)](https://task-manager-wvx7.onrender.com)
 
+**Live Demo:** https://task-manager-wvx7.onrender.com
+
+A beautiful task manager that helps you organize your life...
